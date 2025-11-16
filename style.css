@@ -416,4 +416,14 @@ header {
     letter-spacing: 2px;
   
     font-family: 'Courier New', Courier, monospace;
+
+}
+.author-info {
+    position: absolute;
+    top: 30px;
+    left: 5%;
+    color: #cccccc;
+    font-size: 1em;
+    font-weight: 500;
+    z-index: 10;
 }
